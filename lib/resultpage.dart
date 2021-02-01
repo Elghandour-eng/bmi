@@ -3,7 +3,7 @@ import 'package:bmi2/constants.dart';
 import 'package:flutter/material.dart';
 
 class ResultPage extends StatefulWidget {
- static String id ='result';
+ static String id ='resulttttttttttt';
 final double bmi;
 ResultPage({this.bmi,this.name});
 final String name;
